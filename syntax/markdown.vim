@@ -131,9 +131,8 @@ hi def link markdownItalicDelimiter       markdownItalic
 hi def link markdownBold                  htmlBold
 hi def link markdownBoldDelimiter         markdownBold
 hi def link markdownBoldItalic            htmlBoldItalic
-hi def link markdownBoldItalicDelimiter   markdownBoldItalic
-hi def link markdownCode                  Delimiter
-hi def link markdownCodeBlock             Delimiter
+hi def link markdownCode                  Float
+hi def link markdownCodeBlock             Float
 hi def link markdownCodeDelimiter         Delimiter
 
 hi def link markdownEscape                Special
